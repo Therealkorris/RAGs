@@ -1,0 +1,16 @@
+#chainlit==1.0.200
+chainlit
+langchain
+langchain_community
+PyPDF2
+chromadb
+groq
+langchain-groq
+ollama
+python-dotenv
+streamlit-bokeh-events
+bokeh
+streamlit
+gtts
+SpeechRecognition 
+PyAudio
